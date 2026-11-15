@@ -2,9 +2,9 @@
 
 Independent ChatGPT ↔ Cloudflare Workers MCP ↔ private R2 file transfer service.
 
-# ChatGPT ↔ Cloudflare Worker MCP ↔ private R2 ↔ PC2
+## Architecture
 
-Private transfer bridge for the ChatGPT attachments, Cloudflare R2 and external clients (including ComfyUI/PC2).
+Private file-transfer bridge between ChatGPT, Cloudflare R2 and external clients (including ComfyUI and PC2).
 
 ## Files
 
